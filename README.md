@@ -1,0 +1,1 @@
+"Developed a simple Python Hangman game that randomly selects a word from a predefined list, allowing players to guess letters within a limited number of attempts, with feedback on their progress and game outcome."
